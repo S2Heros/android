@@ -69,7 +69,7 @@
   <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="uk" revision="jellybean" />
   <project path="device/samsung/hercules" name="android_device_samsung_hercules" remote="uk" revision="jellybean" groups="device" />
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="aokp" revision="jb-mr2" groups="device" />
-  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="uk" revision="jellybean" groups="device" />
+  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cm" revision="cm-10.2" />
  
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
